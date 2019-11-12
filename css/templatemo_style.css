@@ -137,6 +137,12 @@ a.menu-toggle-btn i { line-height: 60px; }
 .service-item .service-content h3 { margin: 0; font-size: 20px;}
 .service-item .service-content a {color: #fafafa}
 
+.draft-item { background-color: #e3387c; color: white; }
+.draft-item .draft-icon { width: 25%; float: left; overflow: hidden; display: inline-block; text-align: center; margin-top: 30px; height: 100%; }
+.draft-item .draft-content { width: 75%; overflow: hidden; text-align: center; padding: 20px 20px 20px 0; }
+.draft-item .draft-content h3 { margin: 0; font-size: 20px;}
+.draft-item .draft-content a {color: #fafafa}
+
 .pitch { margin-top: 10px; margin-bottom: 20px; }
 .pitch h3 { color: #974dea; font-weight: 300; text-transform: uppercase; font-size: 24px; margin: 0 0 20px 0; }
 
@@ -147,6 +153,9 @@ a.menu-toggle-btn i { line-height: 60px; }
 
 .p2desc { margin-top: 10px; margin-bottom: 20px; }
 .p2desc h3 { color: #38e395; font-weight: 300; text-transform: uppercase; font-size: 24px; margin: 0 0 20px 0; }
+
+.p3desc { margin-top: 10px; margin-bottom: 20px; }
+.p3desc h3 { color: #e3387c; font-weight: 300; text-transform: uppercase; font-size: 24px; margin: 0 0 20px 0; }
 
 .portfolio-thumb { overflow: hidden; position: relative; }
 .portfolio-thumb img { width: 100%; height: auto; }
